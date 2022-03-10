@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_week_live"]=self["webpackChunkvue_week_live"]||[]).push([[570],{570:function(e,n,u){u.r(n),u.d(n,{default:function(){return v}});var r=u(252);function t(e,n){return(0,r.wg)(),(0,r.iD)("h2",null,"後台優惠券")}var c=u(744);const i={},l=(0,c.Z)(i,[["render",t]]);var v=l}}]);
+//# sourceMappingURL=570.324d8625.js.map
